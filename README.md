@@ -1,6 +1,6 @@
 # Machine Learning Homeworks — MIPT DLS 1st Semester (Classic ML & Computer Vision)
 
-Репозиторий содержит домашние задания курса **Deep Learning School (МФТИ)** за 1 семестр: задачи по **классическому машинному обучению** и **нейронным сетям** (включая computer vision).
+Репозиторий содержит домашние задания курса **Deep Learning School (МФТИ)** за 1 семестр: задачи по **classic machine learning** и **neural networks** (computer vision).
 
 ## Tech Stack
 
