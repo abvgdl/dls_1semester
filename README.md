@@ -15,6 +15,8 @@
 | `hw3_gradbost.ipynb` | Полный ML-пайплайн для соревнования: подготовка данных, обучение и отбор модели | CatBoostClassifier, Logistic Regression, ColumnTransformer, Pipeline, GridSearchCV, ROC-AUC |
 | `hw4_conv_nets.ipynb` | Построение и обучение нейросетей для задач классификации, переход от MLP к CNN | PyTorch, MLP, LeNet, SGD, Adam, Batch training |
 | `hw5_cnn_and_fine-tuning.ipynb` | Классификация изображений и transfer learning с дообучением предобученной сети | Custom CNN, ResNet (fine-tuning), Adam/AdamW, Data Augmentation, F1-score |
+| `hw6_semantic_segmentation.ipynb` | Сегментация медицинских изображений: подготовка масок, обучение и оценка сегментационной модели | U-Net, BCE/Dice Loss, Albumentations, IoU, PyTorch DataLoader |
+
 | `README.md` | Краткое описание репозитория и структуры домашних заданий | Markdown |
 
 ## Итоговые метрики экспериментов
@@ -29,3 +31,4 @@
 | `hw4_conv_nets.ipynb` | LeNet на MNIST (test) | Accuracy = **0.9872** (~0.99) |
 | `hw5_cnn_and_fine-tuning.ipynb` | Simple CNN (best val) | F1 = **0.8294**, Accuracy = **0.8294** |
 | `hw5_cnn_and_fine-tuning.ipynb` | ResNet50 fine-tuning (best val) | F1 = **0.9727**, Accuracy = **0.9727** |
+| `hw6_semantic_segmentation.ipynb` | U-Net для сегментации (best val) | IoU = **0.8956** |
